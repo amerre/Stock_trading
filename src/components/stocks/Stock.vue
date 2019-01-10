@@ -10,7 +10,7 @@
       <div class="pull-left">
         <input type="number" class="form-control" placeholder="Quantity" v-model.number="quantity">
       </div>
-      <div class="pull-right">
+      <div class="pull-right"></div>
         <button
           class="btn btn-success"
           @click="buyStock"
