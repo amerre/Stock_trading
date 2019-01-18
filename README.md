@@ -2,6 +2,10 @@
 
 This is a little website building in this [Udemy course](https://www.udemy.com/vuejs-2-the-complete-guide/). I learn a lot throughout this project, this is why I want to keep it here in order to refer sometimes.
 
+# Things to do on the app
+
+- Add documentation to the game's functionalities
+
 ## Built With
 
 - [Vue.js](https://vuejs.org/) - The web framework used
@@ -11,31 +15,37 @@ This is a little website building in this [Udemy course](https://www.udemy.com/v
 - [Firebase](https://firebase.google.com/)
 
 ## Project setup
+
 ```
 npm install
 ```
 
 ### Compiles and hot-reloads for development
+
 ```
 npm run serve
 ```
 
 ### Compiles and minifies for production
+
 ```
 npm run build
 ```
 
 ### Run your tests
+
 ```
 npm run test
 ```
 
 ### Lints and fixes files
+
 ```
 npm run lint
 ```
 
 ### Customize configuration
+
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ## License
